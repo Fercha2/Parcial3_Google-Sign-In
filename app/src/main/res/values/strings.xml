@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parcial3_Google-Sign-In</string>
+    <string name="prefs_file">com.example.parcial3_google_sign_in.PREFERENCE_FILE_KEY</string>
+    <string name="default_web_client_id">140830537931-l6gm0e694q63468ot77u1ir80req4rga.apps.googleusercontent.com</string>
+</resources>
